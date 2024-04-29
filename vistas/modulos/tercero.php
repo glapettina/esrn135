@@ -228,8 +228,7 @@
                   <select class="form-control input-lg" name="nuevaModalidad">
                     
                     <option value="">Seleccionar modalidad</option>
-                    <option value="Ciencias Sociales y Humanidades">Ciencias Sociales y Humanidades</option>
-                    <option value="Ciencias Naturales">Ciencias Naturales</option>
+                    <option value="Economía y Administración">Economía y Administración</option>
 
                   </select>
 
@@ -380,9 +379,7 @@
                   <select class="form-control input-lg" id="editarModalidad" name="editarModalidad">
                     
                     <option value="">Seleccionar modalidad</option>
-                    <option value="Ciencias Sociales y Humanidades">Ciencias Sociales y Humanidades</option>
-                    <option value="Ciencias Naturales">Ciencias Naturales</option>
-
+                    <option value="Economía y Administración">Economía y Administración</option>
                   </select>
 
                 </div>
